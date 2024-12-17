@@ -28,10 +28,18 @@ Antes de iniciar, certifique-se de ter instalado:
 
 ## ✅ Resultados Esperados
 
-GET: Retorna todos os dispositivos com status 200.
-POST: Cadastra um novo dispositivo e retorna o id.
-PUT: Atualiza um dispositivo existente e valida as alterações.
-DELETE: Remove um dispositivo existente e confirma a remoção.
+*GET:* 
+Retorna todos os dispositivos com status 200.
+-
+*POST:*
+Cadastra um novo dispositivo e retorna o id.
+-
+*PUT:*
+Atualiza um dispositivo existente e valida as alterações.
+-
+*DELETE:*
+Remove um dispositivo existente e confirma a remoção.
+-
 
 
 ## Documentacao da API
